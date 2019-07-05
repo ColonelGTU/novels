@@ -4,5 +4,3 @@
 ここには各mdファイルへのリンクを置く
 ~~予定~~  
 [序章](https://github.com/ColonelGTU/novels/blob/master/first%20novel.md)
-
-
